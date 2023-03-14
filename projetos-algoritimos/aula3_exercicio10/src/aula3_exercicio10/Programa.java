@@ -1,0 +1,18 @@
+package aula3_exercicio10;
+
+import java.util.Scanner;
+
+public class Programa {
+	public static void main(String[] args) {
+		
+		Scanner teclado = new Scanner(System.in);
+		
+		System.out.println("Informe as hora:");
+		double hora = teclado.nextDouble();
+		
+		double dias = hora / 24;
+		
+		System.out.println("Resultado em dias:" + dias);
+		
+	}
+}

@@ -1,0 +1,19 @@
+package aula3_exercicio9;
+
+import java.util.Scanner;
+
+public class Programa {
+	public static void main(String[] args) {
+	
+		Scanner teclado = new Scanner(System.in);
+	  
+		System.out.println("Informe a hora:");
+		double hora = teclado.nextDouble();
+		
+		double minuto = hora * 60;
+		System.out.println("Resultado em minutos:" + minuto);
+		
+		teclado.close();
+	  
+  }
+}

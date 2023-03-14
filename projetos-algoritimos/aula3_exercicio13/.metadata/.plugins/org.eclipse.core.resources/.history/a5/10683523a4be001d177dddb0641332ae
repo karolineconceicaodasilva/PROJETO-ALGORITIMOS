@@ -1,0 +1,33 @@
+package aula3_exercicio14;
+
+import java.util.Scanner;
+
+public class Programa {
+	public static void main(String[] args) {
+		
+		Scanner teclado = new Scanner(System.in);
+		
+		System.out.println("Digita um número:");
+		double numeroA = teclado.nextDouble();
+		
+		System.out.println("Digita outro número:");
+		double numeroB = teclado.nextDouble();
+		
+		System.out.println("Digita outro número:");
+		double numeroC = teclado.nextDouble();
+	
+//		• A área de um círculo de raio c.
+		double circulo = 3.14 * (numeroC * numeroC);
+		
+		
+		
+		
+		
+		
+		
+		
+//		• A área de um quadrado de lado b.
+//		• A área de um retângulo de lados a e b.
+//		• A área de um triângulo retângulo que tem a por base e b por altura.
+	}
+}

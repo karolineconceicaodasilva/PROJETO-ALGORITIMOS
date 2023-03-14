@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+/home/cleomar/Documentos/workspace-curso/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1956126148.index
+3485895587.index
+3985722494.index
+2593553640.index
+679388836.index
+60763474.index
+1601803826.index
+1456462361.index
+3099704117.index
+2273706429.index
+3942418535.index

@@ -1,0 +1,26 @@
+package aula3_exercicio13;
+
+import java.time.LocalDate;
+import java.util.Scanner;
+
+public class Programa {
+	public static void main(String[] args) {
+		
+		Scanner teclado = new Scanner(System.in);
+		
+		System.out.println("Informe ano de nascimento:");
+		int ano = teclado.nextInt();
+		
+		
+		
+		int idadeAtual = ano - 2023;
+		
+		int idadeEm2030 = ano - 2030;
+		
+		
+		System.out.println("Idade atual é:" + idadeAtual);
+		System.out.println("E sua idade em 2030 vai ser:" + idadeEm2030);
+		
+		
+		}
+}
